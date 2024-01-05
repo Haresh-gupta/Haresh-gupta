@@ -1,4 +1,4 @@
-[![MasterHead](https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2Ftopics%2Fgifs%3Fo%3Ddesc%26s%3Dupdated&psig=AOvVaw23o1lu2Fj5QVEK1puaGJMY&ust=1704559465908000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCMiZo_7YxoMDFQAAAAAdAAAAABAD)
+[![MasterHead](https://github.com%2FAnmol-Baranwal%2FCool-GIFs-For-GitHub&psig=AOvVaw2eDfCDAuY3NF903dLV5G1g&ust=1704559913593000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCJCEoN3axoMDFQAAAAAdAAAAABAD)
 
 <h1 align="center">Hi 👋, I'm Haresh Kumar Gupta</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
